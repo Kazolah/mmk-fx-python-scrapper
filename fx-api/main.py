@@ -5,7 +5,7 @@ from google.cloud import datastore
 
 DS_KIND = 'FX'
 DS_CLIENT = datastore.Client()
-API_TOKEN = 'smTykje1E3E8TRky1y4qM88N8XO29o'
+API_TOKEN = ''
 
 def main(request):
     response = {}
