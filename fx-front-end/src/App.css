@@ -1,0 +1,75 @@
+.App {
+  width: 100%;
+  height: auto;
+}
+
+.App-logo {
+  width: 200px;
+}
+
+.App-header {
+  width: 200px;
+  margin: 20px auto 0px auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-container {
+  width: 320px;
+  margin: 20px auto 0px auto;
+  height: 100%;
+}
+
+.currency-container {
+  width: 200px;
+  margin: 10px auto 10px auto;
+}
+
+.currency-dropdown {
+  width: 80px;
+  margin-left: 10px;
+}
+
+.currency-label {
+  margin: 10px;
+}
+
+.table-cell{
+  background-color: #D6FFE7;
+  width: 100px;
+}
+.table-container {
+  width: 300px;
+  margin: 20px auto 0px auto;
+}
+
+.last-update-container{
+  width: 300px;
+  margin: 10px auto 10px auto;
+}
+
+.disclaimer-container{
+  width: 100%;
+}
+
+.disclaimer{
+  font-size: 11px;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.last-update-label{
+  font-size: 13px;
+  margin: 5px; 
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
