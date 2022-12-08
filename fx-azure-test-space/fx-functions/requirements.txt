@@ -6,7 +6,7 @@ six==1.12.0
 webencodings==0.5.1
 beautifulsoup4==4.7.1
 cachetools==3.1.0
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.1
 configparser==3.7.1
